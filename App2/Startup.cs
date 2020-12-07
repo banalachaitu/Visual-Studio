@@ -31,6 +31,7 @@ namespace App2
         {
             if (env.IsDevelopment())
             {
+                //Changes made
                 app.UseDeveloperExceptionPage();
             }
             else
